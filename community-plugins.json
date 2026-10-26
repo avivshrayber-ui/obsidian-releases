@@ -66575,5 +66575,12 @@
     "author": "Fernlow Works",
     "description": "Export notes to Word (.docx) with real Word styles on desktop and mobile, without Pandoc. Optional paid Pro adds your own Word template and page numbers. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "fernlow-works/docx-styler"
+  },
+  {
+    "id": "tabletake",
+    "name": "TableTake",
+    "author": "Earthloom",
+    "description": "Paste tables from Excel, Google Sheets and web pages as clean Markdown tables. Keeps merged cells, dates and alignment.",
+    "repo": "avivshrayber-ui/tabletake-obsidian"
   }
 ]
